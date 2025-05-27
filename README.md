@@ -25,8 +25,6 @@ This project builds a Convolutional Neural Network (CNN) to classify images into
 4. Model evaluation and visualization  
 5. Model saving and inference
 
----
-
 ## 2. Project Code
 
 ### Data Preparation
@@ -113,7 +111,9 @@ plt.title('Training and Validation Loss')
 plt.show()
 
 
+
 3. Key Technologies
+
 Python: Main programming language.
 
 TensorFlow & Keras: Deep learning framework for CNN construction and training.
@@ -125,6 +125,7 @@ Matplotlib: For plotting training and validation metrics.
 Jupyter Notebook: Interactive environment used to develop the project.
 
 4. Description
+
 Problem Statement
 Build a model that automatically classifies images as either a dog or a cat.
 
@@ -149,6 +150,7 @@ Epochs: 10 (can be increased for better results).
 Batch size: 32.
 
 5. Output
+
 Metrics Achieved
 Metric	Description
 Training Accuracy	Accuracy on the training dataset images.
